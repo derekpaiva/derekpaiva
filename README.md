@@ -35,4 +35,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
   
   </div>
 
-  
+  ![snake gif](https://github.com/derekpaiva/derekpaiva/blob/output/github-contribution-grid-snake.svg)
