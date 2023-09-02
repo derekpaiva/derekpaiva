@@ -33,6 +33,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
   <a href="https://instagram.com/slaybaphomet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/derek-paiva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
-  </div>
-
-  ![snake gif](https://github.com/derekpaiva/derekpaiva/blob/output/github-contribution-grid-snake.svg)
+  </div> 
