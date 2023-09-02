@@ -18,10 +18,10 @@
   
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Derek-Latex" height="30" width="40" 
+  <img align="center" alt="Derek-Latex" height="60" width="80" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-  <img align="center" alt="Derek-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Derek-C++" height="30" width="40"
+  <img align="center" alt="Derek-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Derek-C++" height="60" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
 </div>
